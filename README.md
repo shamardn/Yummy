@@ -4,7 +4,7 @@ A Single Screen App "Yummy" is the first project of Udacity's Android Developer 
 ## Project Overview
 Design and implement a single screen app that displays information about a fictional small business. Think along the lines of your favorite coffeeshop, local restaurant, or that gem of a store that sells those rare comic books or records.
 
-##Suggested App Ideas
+## Suggested App Ideas
 Details about a small business in your neighborhood
 Contact info and description about your workplace or school
 Info about a special interest group (like a club or sports team) you’re part of and how new members can sign up
